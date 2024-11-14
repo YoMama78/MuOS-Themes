@@ -9,13 +9,13 @@
 ### =WHITE= / =BLACK=
 <table>
 <tr><td>**==WHITE==**</td><td>
-![XMB-like WHITE Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-like_white/preview.png?raw=true)</td></tr>
+<img src="https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-like_white/preview.png?raw=true"></td></tr>
 <tr><td>**==BLACK==**</td><td>
-![XMB-like BLACK Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-like_black/preview.png?raw=true)
+<img src="https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-like_black/preview.png?raw=true">
 </td></tr>
 </table>
 
-### **==INSTALLATION==**
+# **==INSTALLATION==**
 
 * Download content of the theme folder as as zip files.<br>
 * Copy to your SD-Card in the ARCHIVE folder<br>
