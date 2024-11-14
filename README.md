@@ -9,9 +9,9 @@
 ### =WHITE= / =BLACK=
 <table>
 <tr><td>**==WHITE==**</td><td>
-![XMB-like WHITE Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)</td></tr>
+![XMB-like WHITE Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-like_white/preview.png?raw=true)</td></tr>
 <tr><td>**==BLACK==**</td><td>
-![XMB-like BLACK Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)
+![XMB-like BLACK Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-like_black/preview.png?raw=true)
 </td></tr>
 </table>
 
