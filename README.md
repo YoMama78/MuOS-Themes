@@ -1,20 +1,24 @@
 # MuOS Themes
 
-1. Material MuOS
+## 1. Material MuOS
 
-![Matrial MuOS Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)
+![Material MuOS Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)
 
-2. XMB-like theme
+## 2. XMB-like theme
 
-==INSTALLATION==
+### =WHITE= / =BLACK=
+<table>
+<tr><td>**==WHITE==**</td><td>
+![XMB-like WHITE Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)</td></tr>
+<tr><td>**==BLACK==**</td><td>
+![XMB-like BLACK Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)
+</td></tr>
+</table>
 
+### **==INSTALLATION==**
 
-Download content of the theme folder as as zip files.
-
-Copy to your SD-Card in the ARCHIVE folder
-
-Open Archive Manager on your device
-
-Install archive
-
-Set theme in the theme picker in settings
+* Download content of the theme folder as as zip files.<br>
+* Copy to your SD-Card in the ARCHIVE folder<br>
+* Open Archive Manager on your device<br>
+* Install archive<br>
+* Set theme in the theme picker in settings<br>

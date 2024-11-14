@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="footer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="-50.375"
+     inkscape:cy="-6"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="2560"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="FOOTER"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.201014;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect237"
+       width="12.498986"
+       height="12.498986"
+       x="0.10050677"
+       y="0.10050674"
+       inkscape:label="RECT" />
+    <path
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path1169"
+       sodipodi:type="arc"
+       sodipodi:cx="6.3500109"
+       sodipodi:cy="6.3505797"
+       sodipodi:rx="5.6023355"
+       sodipodi:ry="5.6023355"
+       sodipodi:start="4.7056242"
+       sodipodi:end="4.6824914"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 6.3121126,0.74837247 A 5.6023355,5.6023355 0 0 1 11.951905,6.2802836 5.6023355,5.6023355 0 0 1 6.4527025,11.951974 5.6023355,5.6023355 0 0 1 0.74930423,6.4856635 5.6023355,5.6023355 0 0 1 6.1825395,0.75074797"
+       inkscape:label="CIRCLE" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="MENU">
+      <g
+         id="g3026"
+         transform="translate(0.26302496)"
+         style="display:inline"
+         inkscape:label="CIRCLES">
+        <path
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="path3017"
+           sodipodi:type="arc"
+           sodipodi:cx="6.086977"
+           sodipodi:cy="6.3515697"
+           sodipodi:rx="1.2042274"
+           sodipodi:ry="1.2042274"
+           sodipodi:start="4.7056242"
+           sodipodi:end="4.6824914"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           d="M 6.0788307,5.1473698 A 1.2042274,1.2042274 0 0 1 7.2911096,6.3364594 1.2042274,1.2042274 0 0 1 6.1090507,7.5555948 1.2042274,1.2042274 0 0 1 4.8830997,6.380606 1.2042274,1.2042274 0 0 1 6.0509789,5.1478804"
+           inkscape:label="CENTER" />
+        <path
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="path3019"
+           sodipodi:type="arc"
+           sodipodi:cx="3.0954645"
+           sodipodi:cy="6.3515697"
+           sodipodi:rx="1.2042274"
+           sodipodi:ry="1.2042274"
+           sodipodi:start="4.7056242"
+           sodipodi:end="4.6824914"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           d="M 3.0873182,5.1473698 A 1.2042274,1.2042274 0 0 1 4.2995971,6.3364594 1.2042274,1.2042274 0 0 1 3.1175381,7.5555948 1.2042274,1.2042274 0 0 1 1.8915871,6.380606 1.2042274,1.2042274 0 0 1 3.0594663,5.1478804"
+           inkscape:label="LEFT" />
+        <path
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="path3021"
+           sodipodi:type="arc"
+           sodipodi:cx="9.0784893"
+           sodipodi:cy="6.3515697"
+           sodipodi:rx="1.2042274"
+           sodipodi:ry="1.2042274"
+           sodipodi:start="4.7056242"
+           sodipodi:end="4.6824914"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           d="M 9.070343,5.1473698 A 1.2042274,1.2042274 0 0 1 10.282622,6.3364594 1.2042274,1.2042274 0 0 1 9.100563,7.5555948 1.2042274,1.2042274 0 0 1 7.874612,6.380606 1.2042274,1.2042274 0 0 1 9.0424912,5.1478804"
+           inkscape:label="RIGHT" />
+      </g>
+      <rect
+         style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect3015"
+         width="11.45471"
+         height="4.9264565"
+         x="0.62264502"
+         y="3.8867717"
+         ry="2.4632282"
+         inkscape:label="MENU" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="BTNS"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.99837px;line-height:0;font-family:'Argentum Novus';-inkscape-font-specification:'Argentum Novus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffff00;stroke:none;stroke-width:0.098004;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         x="6.4489822"
+         y="9.4904308"
+         id="text2677"
+         inkscape:label="A"><tspan
+           sodipodi:role="line"
+           id="tspan2901"
+           x="6.4489822"
+           y="9.4904308"
+           style="display:inline">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.99837px;line-height:0;font-family:'Argentum Novus';-inkscape-font-specification:'Argentum Novus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffff00;stroke:none;stroke-width:0.098004;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         x="6.4489822"
+         y="9.4904308"
+         id="text2891"
+         inkscape:label="B"><tspan
+           sodipodi:role="line"
+           id="tspan2903"
+           x="6.4489822"
+           y="9.4904308">B</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.99837px;line-height:0;font-family:'Argentum Novus';-inkscape-font-specification:'Argentum Novus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffff00;stroke:none;stroke-width:0.098004;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         x="6.4489822"
+         y="9.4904308"
+         id="text2895"
+         inkscape:label="Y"><tspan
+           sodipodi:role="line"
+           id="tspan2905"
+           x="6.4489822"
+           y="9.4904308">Y</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.99837px;line-height:0;font-family:'Argentum Novus';-inkscape-font-specification:'Argentum Novus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffff00;stroke:none;stroke-width:0.098004;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         x="6.4489822"
+         y="9.4904308"
+         id="text2899"
+         inkscape:label="X"><tspan
+           sodipodi:role="line"
+           id="tspan2907"
+           x="6.4489822"
+           y="9.4904308">X</tspan></text>
+    </g>
+  </g>
+</svg>
