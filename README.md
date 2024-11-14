@@ -4,7 +4,7 @@
 
 ![Material MuOS Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)
 
-## 2. XMB-like theme
+## 2. XMB-Icons theme
 
 ### =WHITE= / =BLACK=
 <table>
