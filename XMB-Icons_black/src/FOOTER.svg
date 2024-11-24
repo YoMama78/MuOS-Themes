@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="FOOTER.svg"
-   inkscape:export-filename="../glyph/footer/x.png"
+   inkscape:export-filename="../glyph/footer/menu.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="5.0625"
-     inkscape:cy="19.25"
+     inkscape:zoom="11.313708"
+     inkscape:cx="3.5797281"
+     inkscape:cy="15.467961"
      inkscape:window-width="2560"
      inkscape:window-height="1367"
      inkscape:window-x="2560"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs2" />
   <g
@@ -44,7 +44,7 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.201014;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.201014;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect237"
        width="12.498986"
        height="12.498986"
@@ -69,19 +69,19 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="MENU"
-       style="display:none">
+       style="display:inline">
       <rect
-         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.2346;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
          id="rect3015"
-         width="11.45471"
-         height="4.9264565"
-         x="0.62264502"
-         y="3.8867717"
-         ry="2.4632282"
+         width="10.071293"
+         height="4.9341373"
+         x="1.3143536"
+         y="3.882931"
+         ry="2.4670687"
          inkscape:label="MENU" />
       <g
          id="g3026"
-         transform="translate(0.26302496)"
+         transform="matrix(0.88064352,0,0,0.9020104,0.9895449,0.62223373)"
          style="display:inline;fill:#000000;stroke:#ffffff"
          inkscape:label="CIRCLES">
         <path
@@ -169,15 +169,15 @@
            y="9.4904308">Y</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.99837px;line-height:0;font-family:'Argentum Novus';-inkscape-font-specification:'Argentum Novus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;stroke:none;stroke-width:0.098004;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.99837px;line-height:0;font-family:'Argentum Novus';-inkscape-font-specification:'Argentum Novus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#ffffff;stroke:none;stroke-width:0.098004;stroke-linecap:square;stroke-miterlimit:5;stroke-dasharray:none;paint-order:fill markers stroke"
          x="6.4489822"
          y="9.4904308"
          id="text2899"
          inkscape:label="X"><tspan
            sodipodi:role="line"
            id="tspan2907"
-           x="0"
-           y="0">X</tspan></text>
+           x="6.4489822"
+           y="9.4904308">X</tspan></text>
     </g>
   </g>
 </svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 169.33333 127"
    version="1.1"
    id="svg13871"
-   inkscape:export-filename="muxcharge.png"
+   inkscape:export-filename="boot.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -28,18 +28,18 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4503086"
-     inkscape:cx="269.94255"
+     inkscape:cx="265.8055"
      inkscape:cy="235.81188"
      inkscape:window-width="2560"
      inkscape:window-height="1367"
      inkscape:window-x="2560"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg13871" />
   <defs
      id="defs13868" />
   <rect
-     style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.562809;stroke-linecap:square;stroke-miterlimit:5;paint-order:fill markers stroke"
+     style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.562809;stroke-linecap:square;stroke-miterlimit:5;paint-order:fill markers stroke"
      id="rect13992"
      width="168.77052"
      height="126.43719"
@@ -54,7 +54,7 @@
        id="g14122"
        transform="matrix(3.9621547,0,0,3.9621547,-284.53231,-132.46432)"
        inkscape:label="MUXCHARGE"
-       style="display:inline"
+       style="display:none"
        inkscape:highlight-color="#a9cf72">
       <rect
          style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.564999;stroke-linecap:square;stroke-miterlimit:5;paint-order:fill markers stroke"
@@ -165,7 +165,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="BOOT"
-       style="display:none">
+       style="display:inline">
       <rect
          style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.564999;stroke-linecap:square;stroke-miterlimit:5;paint-order:fill markers stroke"
          id="rect14200"
