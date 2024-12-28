@@ -1,0 +1,12 @@
+[Credits]
+Battery icons by The GNOME Foundation (Part of Adwaita Icon Theme / https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
+Glyphes and music player controls by Google (https://fonts.google.com/icons)
+Console icons by Reddit user u/fschneider2017 with additions by me
+ScummVM by ScummVM (https://github.com/scummvm)
+Ports logo by RetroBat (https://www.retrobat.org/)
+PPSSPP logo by PPSSPP (https://github.com/hrydgard/ppsspp)
+Moonlight logo by Moonlight Game Streaming Project (https://github.com/moonlight-stream)
+PortMaster logo my PortMaster (https://github.com/PortsMaster)
+RetroArch logo by RetroArch
+Scrappy logo by Gabriel Freire (https://github.com/gabrielfvale/scrappy)
+
