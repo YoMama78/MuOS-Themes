@@ -15,6 +15,10 @@
 </td></tr>
 </table>
 
+## 3. XMB-Icons theme with GRID support
+
+![XMB-Like Icons theme screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-Icons_white%20GRID/preview.png?raw=true)
+
 # **==INSTALLATION==**
 
 * Download content of the theme folder as as zip files.<br>
