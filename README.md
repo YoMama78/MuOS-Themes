@@ -4,6 +4,8 @@
 
 ![Material MuOS Screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/Material%20MuOS/preview.png?raw=true)
 
+Compatible with Banana, Big Banana and AW Banana
+
 ## 2. XMB-Icons theme
 
 ### =WHITE= / =BLACK=
@@ -15,9 +17,13 @@
 </td></tr>
 </table>
 
+Compatible with Banana, Big Banana and AW Banana
+
 ## 3. XMB-Icons theme with GRID support
 
 ![XMB-Like Icons theme screenshot](https://github.com/YoMama78/MuOS-Themes/blob/main/XMB-Icons_white%20GRID/preview.png?raw=true)
+
+Compatible with Big Banana and AW Banana only!
 
 # **==INSTALLATION==**
 
