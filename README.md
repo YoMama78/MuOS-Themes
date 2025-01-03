@@ -25,6 +25,12 @@ Compatible with Banana, Big Banana and AW Banana
 
 Compatible with Big Banana and AW Banana only!
 
+## 4. Hexagon
+
+![Hexagon](https://github.com/YoMama78/MuOS-Themes/blob/main/Hexagon/preview.png?raw=true)
+
+Compatible with Big Banana and AW Banana only!
+
 # **==INSTALLATION==**
 
 * Download content of the theme folder as as zip files.<br>
